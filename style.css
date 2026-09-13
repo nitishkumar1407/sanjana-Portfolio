@@ -2541,6 +2541,7 @@
   box-shadow:0 8px 24px rgba(25,24,23,.045);
   transition:transform .25s ease, box-shadow .25s ease;
 }
+   
 .work-section .video-card:hover{
   transform:translateY(-4px);
   box-shadow:0 14px 30px rgba(25,24,23,.08);
@@ -2620,8 +2621,10 @@
   transition:background .25s ease, border-color .25s ease, transform .25s ease;
 }
 .work-section .instagram-reel-link:hover{
-  background:#c85a43;
-  border-color:#c85a43;
+  /* background:#c85a43;
+  border-color:#c85a43; */
+   background: #58534e;
+    border-color: #24211e;
   color:#fff;
   transform:translateY(-1px);
 }
